@@ -4,4 +4,5 @@ A new Flutter project that can be used to make list of to do things.
 
 this looks like:
 
-blob:https://web.whatsapp.com/227b3a1b-5160-41dc-8797-e58298d34af3
+![WhatsApp Image 2024-12-23 at 6 01 18 PM](https://github.com/user-attachments/assets/a60bc972-0158-4a64-addf-6ab07343d551)
+![WhatsApp Image 2024-12-23 at 6 01 18 PM](https://github.com/user-attachments/assets/29fd8f00-5d31-42c8-9381-b6f8b4765802)
